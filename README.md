@@ -92,10 +92,16 @@ pip install -r requirements.txt
 
 ### 2. Run the system
 
-```bash id="rm4"
+```
 python main.py
 ```
+### 3. How to run streamlit
 
+```
+
+pip install streamlit
+streamlit run app/app.py
+```
 
 ## Requirements
 
