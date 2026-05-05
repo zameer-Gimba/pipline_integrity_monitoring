@@ -1,3 +1,12 @@
+import sys
+import os
+
+# Add the project root to the python path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+# Now try to import your local module
+from src.simulator import simulate_pipeline_data
+
 import streamlit as st
 from src.simulator import simulate_pipeline_data
 from src.detector import detect_anomalies_zscore, detect_anomalies_ai
