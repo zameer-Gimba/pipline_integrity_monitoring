@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22050980.svg)](https://doi.org/10.5281/zenodo.22050980)
 
-[![Live Demo](Interact with the Live Web Dashboard)](https://piplineintegritymonitoring.streamlit.app/)
+[![LiveDemo](Interact with the Live Web Dashboard)](https://piplineintegritymonitoring.streamlit.app/)
 ## Overview
 
 This project simulates an industrial pipeline monitoring system designed to detect leaks and anomalies using a combination of:
