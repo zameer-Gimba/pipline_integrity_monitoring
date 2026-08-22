@@ -1,5 +1,9 @@
 # Pipeline Integrity Monitoring & Leak Detection System
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22050980.svg)](https://doi.org/10.5281/zenodo.22050980)
+## Citation
+
+If you use this software framework or adapt its multi-layered anomaly detection architecture in your research, please cite it as follows:
+
+Gimba, M. I. (2026). A Tri-Layered Hybrid Framework for Anomaly Detection in Pipeline Integrity Networks (Version v1.0.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22050980.svg)](https://doi.org/10.5281/zenodo.22050980)
 ## Overview
 
 This project simulates an industrial pipeline monitoring system designed to detect leaks and anomalies using a combination of:
@@ -74,7 +78,7 @@ Example plot:
 ![Pipeline Monitoring Plot](assets/graph.png)
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - NumPy
@@ -82,7 +86,7 @@ Example plot:
 - Matplotlib
 - Scikit-learn
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Install dependencies
 
@@ -142,12 +146,12 @@ This project demonstrates:
 * Modular Python system design
 
 
-## 👤 Author
+## Author
 
 Built as a data science + energy systems simulation project focused on oil & gas pipeline integrity monitoring.
 by: Muhammad Ibrahim Gimba
 
-## 📌 Note
+## Note
 
 This is a simulation-based system and does not use real industrial pipeline data.
 It is designed for educational and portfolio demonstration purposes.
