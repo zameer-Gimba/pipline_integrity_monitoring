@@ -1,4 +1,4 @@
-# Pipeline Integrity Monitoring & Leak Detection System
+# A Tri-Layered Hybrid Framework for Anomaly Detection in Pipeline Integrity Networks
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22050980.svg)](https://doi.org/10.5281/zenodo.22050980) **Live Demo:** [Interact with the Live Web Dashboard](https://piplineintegritymonitoring.streamlit.app)
 
