@@ -155,4 +155,3 @@ Gimba, M. I. (2026). A Tri-Layered Hybrid Framework for Anomaly Detection in Pip
 ## Note
 
 This is a simulation-based system and does not use real industrial pipeline data.
-It is designed for educational and portfolio demonstration purposes.
